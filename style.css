@@ -4,3 +4,32 @@ body{
 .navbarbg{
     background-color: #2b3137;
 }
+.texth4{
+    margin-left: 100px;
+    margin-top: 120px;
+}
+.textp{
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-right: 700px;
+}
+.imgedu{
+    top: 20cm;
+    left: 650px;
+}
+.aboutimg{
+    top: 8cm;
+    left: 650px;
+}
+.textprojects{
+    margin-left: 100px;
+    margin-top: 250px;
+}
+.imgproj{
+    top: 31cm;
+    left: 650px;
+}
+.textp2{
+    margin-left: 100px;
+    margin-top: 20px;
+}
