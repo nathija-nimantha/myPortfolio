@@ -33,3 +33,46 @@ body{
     margin-left: 100px;
     margin-top: 20px;
 }
+.aboutimg{
+    top: 8cm;
+    left: 650px;
+}
+.textprojects{
+    margin-left: 100px;
+    margin-top: 250px;
+}
+.imgproj{
+    top: 31cm;
+    left: 650px;
+}
+.textp2{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.address{
+    margin-left: 100px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #1883ba;
+    line-height: 0.8em;
+    display: inline-block;
+    /*border-bottom: 2px dashed #1883ba;*/
+    padding-bottom: 10px;
+}
+.email_address{
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #1883ba;
+    line-height: 0.8em;
+    display: inline-block;
+    border-bottom: 2px dashed #1883ba;
+    padding-bottom: 10px;
+}
+.phone_Number{
+    margin-left: 100px;
+    margin-top: 20px;
+}
